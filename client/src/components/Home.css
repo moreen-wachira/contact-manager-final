@@ -1,0 +1,24 @@
+/* Home.css */
+.home-container {
+    background-image: url('https://c0.wallpaperflare.com/preview/785/198/362/business-office-flatlay-contact-us.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .home-container h1, .home-container p {
+    color: black; 
+  }
+  
+  .home-container p {
+    font-size: 1.5rem;
+    max-width: 600px;
+    margin: 20px 0;
+  }
+  
