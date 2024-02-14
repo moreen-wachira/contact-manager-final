@@ -25,6 +25,7 @@ setuptools = "65.4.1"
 six = "1.16.0"
 sqlalchemy = "1.4.41"
 sqlalchemy-serializer = "1.4.1"
+flask-restful = "*"
 
 [dev-packages]
 
